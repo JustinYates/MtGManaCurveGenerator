@@ -32,4 +32,5 @@ public class Main {
         System.out.print("So your " + Cname + " card " + "cost" + " " + manaCost + " " + SmanaCost + " mana " + "with " + ColorlessC + " " + "colorless mana?");
 
     }
+
 }
