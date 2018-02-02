@@ -29,8 +29,7 @@ public class Main {
 
         int ColorlessC = Colorless.nextInt();
 
-        System.out.print("So your " + Cname + " card " + "cost" + " " + manaCost + " " + SmanaCost + " mana "  + "with " + ColorlessC + " " + "colorless mana?");
-
+        System.out.print("So your " + Cname + " card " + "cost" + " " + manaCost + " " + SmanaCost + " mana " + "with " + ColorlessC + " " + "colorless mana?");
 
     }
 }
