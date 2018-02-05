@@ -15,7 +15,7 @@ public class Main {
 
         Scanner Colorless = new Scanner(System.in);
 
-        Scanner Final = new Scanner(System.in);
+ //       Scanner Final = new Scanner(System.in);
 
         String SmanaCost = ManaType.nextLine();
 
@@ -33,8 +33,8 @@ public class Main {
 
         System.out.print("So your " + Cname + " card " + "cost" + " " + manaCost + " " + SmanaCost + " mana " + "with " + ColorlessC + " " + "colorless mana?");
 
-        String Decision = Final.nextLine();
-        if (Decision = True);
+       // String Decision = Final.nextLine();
+       // if (Decision = True);
 
     }
 
